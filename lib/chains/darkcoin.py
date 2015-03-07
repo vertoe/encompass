@@ -43,9 +43,9 @@ class Darkcoin(CryptoCur):
         'descartes.darko.in':DEFAULT_PORTS,
         'electrum.darkcointalk.org':DEFAULT_PORTS,
         'drk1.electrum-servers.us':DEFAULT_PORTS,
+        'electrum.drk.siampm.com':DEFAULT_PORTS,
         'electrum-drk.club':DEFAULT_PORTS,
-        'drk.khavr.com':DEFAULT_PORTS,
-        '103.13.228.168':DEFAULT_PORTS,
+    #   'drk.khavr.com':DEFAULT_PORTS,
     }
 
     def set_headers_path(self, path):
