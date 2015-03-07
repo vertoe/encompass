@@ -40,7 +40,7 @@ class Darkcoin(CryptoCur):
     DEFAULT_PORTS = {'t':'50001', 's':'50002', 'h':'8081', 'g':'8082'}
 
     DEFAULT_SERVERS = {
-        'descartes.darko.in':DEFAULT_PORTS,
+        'descartes.darkco.in':DEFAULT_PORTS,
         'electrum.darkcointalk.org':DEFAULT_PORTS,
         'drk1.electrum-servers.us':DEFAULT_PORTS,
         'electrum.drk.siampm.com':DEFAULT_PORTS,
